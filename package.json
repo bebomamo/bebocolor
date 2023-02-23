@@ -1,0 +1,22 @@
+{
+  "name": "bebocolor",
+  "displayName": "bebocolor",
+  "description": "bebocolor",
+  "version": "0.0.1",
+  "publisher": "BenMalone",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BeboColor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BeboColor-color-theme.json"
+      }
+    ]
+  }
+}
