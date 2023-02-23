@@ -2,15 +2,16 @@
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+/*
+    Hi, I'm Ben Malone, a computer engineering student at the University of Illinois Urbana Champaign(UIUC).
+*/
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+/*
+    I made this custom color theme for two reasons: 1. I wanted to make one because I like customizing my things and making them personal, and 2. I thought all the standard VsCode themes were either not enough coloring or way too much.
 
-## For more information
+    My Theme is designed to feel well-colored like the standard color themes(like c'mon its not the early 2000's where all code is white text), but also sharp and exact like a debugger such as GDB.
+*/
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+/*
+    Hope you enjoy it :}
+*/

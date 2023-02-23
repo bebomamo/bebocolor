@@ -4,6 +4,20 @@
   "description": "bebocolor",
   "version": "0.0.1",
   "publisher": "BenMalone",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/bebomamo/bebocolor"
+  },
+  "keywords": [
+      "Ben Malone",
+      "bebocolor",
+      "bebomamo",
+      "debug",
+      "theme",
+      "color theme",
+      "debug theme",
+      "gdb theme"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
